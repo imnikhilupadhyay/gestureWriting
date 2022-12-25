@@ -13,6 +13,8 @@ I encourge all the developers to use this code and create their version of gestu
 -  **drawCanvas**: This fuction deals with catpuring the points of my unique object and creating the geometrical shape over the object movement i.e doing shadow writing
 
 #### Prerequisites 
+- Python
+- python get-pip.py
 - pip install opencv-python
 - pip install numpy
 
